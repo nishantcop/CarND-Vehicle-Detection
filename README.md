@@ -15,14 +15,17 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # (Image References)
-[classes]: ./output_images/can_non_car.png
-[hogNormal]: ./output_images/hog_normal.png
-[hogColor]: ./output_images/hog_color.png
-[hogPerChannel]: ./output_images/hog_per_channel.png
-[slidingSample]: ./output_images/sliding_sample.png
-[heatMapCompare]: ./output_images/heat_map_compare.png
-[pipelineTest]: ./output_images/pipeline_test.png
-[video]: ./output_images/video.gif
+
+[classes]: ./output_images/can_non_car.png "All car non car classes"
+[hogNormal]: ./output_images/hog_normal.png "Hog Normal"
+[hogColor]: ./output_images/hog_color.png "Colored Hog"
+[hogPerChannel]: ./output_images/hog_per_channel.png "Hog Result Per Channel"
+[slidingSample]: ./output_images/sliding_sample.png "Sliding Window Sample"
+[heatMapCompare]: ./output_images/heat_map_compare.png "Heat Map Comparison"
+[pipelineTest]: ./output_images/pipeline_test.png "Test Pipeline Result"
+[video]: ./output_images/video.gif "Final Output Video"
+
+
 ---
 
 ### Histogram of Oriented Gradients (HOG)
